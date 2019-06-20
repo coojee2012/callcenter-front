@@ -1,0 +1,17 @@
+/* @font-face {
+  font-family: PingFangSC-Regular;
+  src: url("assets/PingFangSC-Regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: PingFangSC-Medium;
+  src: url("assets/PingFangSC-Medium.otf");
+} */
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
